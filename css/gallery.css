@@ -1,0 +1,70 @@
+body
+     {
+         background-color:lightcoral;
+         font-family: 'Be Vietnam Pro', sans-serif;
+         font-family: 'Poppins', sans-serif;
+    }
+
+div
+{
+    width: 85%;
+    margin: auto;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 5px solid azure;
+}
+div h1
+{
+    font-family: 'Great Vibes', cursive;
+    color:azure;
+}
+a:link 
+{
+color:rgb(255, 255, 255);
+background-color: none ;
+text-decoration: none;
+padding: 15px;
+text-transform:capitalize;
+font-size: 20px;
+}
+a:visited
+    {
+        color:snow;
+        background-color:none;
+        text-decoration: none;
+    }
+    a:hover
+    {
+        color:lightsalmon;
+        background-color:peachpuff;
+        text-decoration: underline;
+    }
+    a:active
+    {
+        color:peru;
+    }
+img
+{
+   margin-right: 20px;
+   padding: 2px; 
+   border-radius: 8px;
+   margin-left: 30px;
+}
+video
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+h2
+{
+    color:ivory;
+}
+footer
+{
+    color: ivory;
+    text-align: center;
+}
