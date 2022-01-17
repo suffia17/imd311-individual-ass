@@ -49,18 +49,19 @@ h2
 {
     text-align: center;
     color: ivory;
+    font-family:'Imperial Script', cursive;
+    font-size: 40px;
 }
 p
 {
     text-align: center;
     color:ivory;
 }
-img 
+img
 {
-    display: block;
-    margin-left: auto;
+    margin-left: 80px;
     margin-right: auto;
-} 
+}
 audio
 {
     display: block;

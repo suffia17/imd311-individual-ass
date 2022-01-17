@@ -64,12 +64,14 @@ ul
      list-style-position: inside;
     
  }   
- h3
+ h2
  {
      margin: 50px;
      color:ivory;
      text-align: center;
      font-size: 25px;
+     font-family:'Imperial Script', cursive;
+     font-size: 40px;
      
  }
 p
@@ -90,10 +92,7 @@ img
     margin-right: auto;
     border-radius: 8px;
 }
-ul
-{
-    margin-left: 20px;
-}
+
 main
 {
     width: 800px;
@@ -104,11 +103,7 @@ main
     border-radius: 10px;
     border: 1px solid;
 }
-li
-{
-    text-align: center;
-    
-}
+
 footer
 {
     color: ivory;

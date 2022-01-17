@@ -47,28 +47,49 @@ a:hover
     }
 img
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: 40px;
     border-radius: 8px;
+    margin-left: 50px;
 }
 h2
 {
     color: ivory;
     text-align: center;
+    font-family:'Imperial Script', cursive;
+    font-size: 40px;
 }
-h3 
+h3
 {
     color: ivory;
     text-align: center;
+    font-family:'Imperial Script', cursive;
+    font-size: 40px;
 }
-h4
-{
-    color: ivory;
-    text-align: center;
-}
+
 footer
 {
     color: ivory;
     text-align: center;
+}
+table, th, td
+{
+    border: solid white;
+    color: ivory;
+}
+table
+{
+    width:100%;
+    border-collapse: collapse;
+}    
+p
+{
+    text-align: justify;
+    color: ivory;
+    margin-left: 50px;
+    text-align:center;
+    background-color:lightpink;
+    color: white;
+    border: 2px solid lightcoral;
+    margin: 20px;
+    padding: 20px;
 }
